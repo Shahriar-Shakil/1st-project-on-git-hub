@@ -1,0 +1,74 @@
+body{
+    font-family:  'Raleway', sans-serif;
+}
+.my-caption h1{
+    font-size: 52px;
+}
+.font-size-36{
+    font-size: 34px;
+}
+.font-montser{
+    font-family: 'Montserrat', sans-serif !important;
+
+}
+.font-montser h4{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 48px;
+    line-height: 36px;
+
+}
+
+.my-caption{
+  /*  margin-bottom:100px; ;*/
+    padding-bottom: 200px;
+}
+.my-btn{
+    background-color: #998675;
+    color:white;
+    font-family: 'Raleway', sans-serif;
+    font-size:14px;
+}
+.my-p{padding-right:150px;
+padding-left: 150px;
+}
+.extra1{z-index: 1;
+left:150px;
+    background-color: rgba(0,0,0,.0)!important;
+}
+
+.extra2{
+    z-index: -1;
+}
+
+.iphone ul li{
+   list-style-type: none;
+}
+
+.feadback{
+    background:url("../img/Background.png");
+
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.my-bg{
+    background: rgba(0,0,0,.0)!important;
+}
+.myborder{
+    width:20px;;
+    height: 1px;
+    background:white;
+    position:absolute;
+
+}
+.mount{
+    background: url("../img/background-mount.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.big-footer{
+    background-color: #191919;
+
+}
+.myColor{
+    color:#c7b299;
+}

@@ -1,0 +1,28 @@
+.dropdown:hover ul{display: block;}
+
+header nav ul li a{
+    color: black;
+    font-weight: bold;
+}
+header nav ul li a:hover{
+    color: white;
+    background-color: #F39C12;
+}
+.my-caption{
+
+    background: rgba(0,0,0,0.6);
+    margin-bottom: 150px;
+}
+.my-caption h1{letter-spacing: 2px;font-weight: bold}
+.my-caption p{
+   letter-spacing: 3px;
+}
+.test ul li {
+    border-right: 1px solid white;
+    display: inline-block;
+    line-height: 13px;
+    padding-right: 10px;
+
+
+}
+
